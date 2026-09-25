@@ -1,8 +1,34 @@
 {
-  "resources": [],
-  "demands": [],
-  "resourceSourceReady": false,
-  "demandSourceReady": false,
+  "resources": [
+    {
+      "id": "imported-resource-1790359637815-0",
+      "name": "Imported Lab",
+      "type": "Facility",
+      "location": "Campus 1",
+      "capacity": 50,
+      "unit": "slots",
+      "utilization": 20,
+      "owner": "Innovation",
+      "status": "available",
+      "lastUpdated": "2026-09-25T18:07:17.815Z"
+    }
+  ],
+  "demands": [
+    {
+      "id": "imported-demand-1790359637815-0",
+      "title": "Imported class",
+      "requester": "CSE",
+      "category": "Education",
+      "quantity": 30,
+      "unit": "seats",
+      "priority": "High",
+      "due": "Monday",
+      "location": "Campus 1",
+      "status": "Unmatched"
+    }
+  ],
+  "resourceSourceReady": true,
+  "demandSourceReady": true,
   "analysisRuns": 0,
   "lastAnalysisAt": null
 }
