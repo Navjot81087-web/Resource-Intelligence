@@ -1,7 +1,7 @@
 {
   "resources": [
     {
-      "id": "imported-resource-1790359637815-0",
+      "id": "imported-resource-1790362339107-0",
       "name": "Imported Lab",
       "type": "Facility",
       "location": "Campus 1",
@@ -10,12 +10,12 @@
       "utilization": 20,
       "owner": "Innovation",
       "status": "available",
-      "lastUpdated": "2026-09-25T18:07:17.815Z"
+      "lastUpdated": "2026-09-25T18:52:19.107Z"
     }
   ],
   "demands": [
     {
-      "id": "imported-demand-1790359637815-0",
+      "id": "imported-demand-1790362339107-0",
       "title": "Imported class",
       "requester": "CSE",
       "category": "Education",
